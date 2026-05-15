@@ -1,0 +1,30 @@
+[twink-raid-loot]
+
+# Enable the module
+TwinkRaidLoot.Enable = 1
+
+# Custom vendor NPC entry (do not change after SQL run)
+TwinkRaidLoot.VendorEntry = 990001
+
+# Scaling values per twink bracket
+TwinkRaidLoot.StatMultiplier19 = 0.85
+TwinkRaidLoot.ILvlBoost19      = 5
+TwinkRaidLoot.StatMultiplier29 = 1.15
+TwinkRaidLoot.ILvlBoost29      = 12
+TwinkRaidLoot.StatMultiplier39 = 1.45
+TwinkRaidLoot.ILvlBoost39      = 20
+TwinkRaidLoot.StatMultiplier49 = 1.75
+TwinkRaidLoot.ILvlBoost49      = 28
+TwinkRaidLoot.StatMultiplier59 = 2.15
+TwinkRaidLoot.ILvlBoost59      = 38
+TwinkRaidLoot.StatMultiplier69 = 2.60
+TwinkRaidLoot.ILvlBoost69      = 48
+TwinkRaidLoot.StatMultiplier79 = 3.00
+TwinkRaidLoot.ILvlBoost79      = 58
+
+# Price multiplier (1.0 = normal sell price)
+TwinkRaidLoot.PriceMultiplier = 8.0
+
+# Extra settings
+TwinkRaidLoot.ShowMessage = 1
+TwinkRaidLoot.Debug       = 0
