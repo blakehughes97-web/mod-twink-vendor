@@ -8,7 +8,7 @@
 - ⚡ GM command: `.twinkraidloot spawn`
 - 🔧 Fully configurable scaling multipliers and prices
 - ✨ Clean item names like `[19] Thunderfury` or `[69] Atiesh`
-- 🔗 Works perfectly alongside `mod-autobalance` and `mod-raid-loot-expansion`
+- 🔗 Works alongside `mod-autobalance` and `mod-raid-loot-expansion`
 
 ## Installation
 1. Clone into your modules folder:
